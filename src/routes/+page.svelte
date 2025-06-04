@@ -1,3 +1,7 @@
+<script lang="ts">
+    // Für diese Seite werden keine lokalen States benötigt
+</script>
+
 <main class="container py-5">
     <!-- Titelbild -->
     <section class="text-center mb-5">
